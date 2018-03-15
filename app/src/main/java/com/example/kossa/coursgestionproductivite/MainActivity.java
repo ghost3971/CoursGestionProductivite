@@ -36,6 +36,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public  void set(){
+        String qa="ghost";
+    }
 
     public void testUpload(){
         int i=1+1;
